@@ -1,0 +1,26 @@
+label{
+    float:left ;
+    width:500px;
+}
+.week1{
+    display:block;
+    margin-left: 500px;
+    
+    
+}
+body{
+    background-color: black;
+    color: aqua;
+}
+.heading{
+    color: blue;
+    float:left;
+    width:500px;
+}
+.tabs{
+    
+    font-size:large;
+    float: left;
+    width:500px;
+
+}
